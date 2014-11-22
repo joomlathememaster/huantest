@@ -1,1 +1,0 @@
-C:\xampp\htdocs\huan\app/views/posts/show.blade.php
