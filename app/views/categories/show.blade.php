@@ -1,0 +1,1 @@
+C:\xampp\htdocs\huan\app/views/categories/show.blade.php
